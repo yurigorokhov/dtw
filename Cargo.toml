@@ -1,0 +1,6 @@
+[package]
+name = "dtw"
+version = "0.1.0"
+authors = ["Yuri Gorokhov <yurigorokhov@gmail.com>"]
+
+[dependencies]
